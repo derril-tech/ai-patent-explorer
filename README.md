@@ -275,12 +275,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-- **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/your-org/ai-patent-explorer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/ai-patent-explorer/discussions)
-- **Email**: support@ai-patent-explorer.com
 
 ## 🙏 Acknowledgments
 
@@ -293,3 +287,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⚠️ Legal Disclaimer**: AI Patent Explorer provides AI-powered patent analysis tools for research and educational purposes only. The analysis results should not be considered as legal advice. Always consult with qualified legal professionals for patent-related decisions.
+
+---
+Built by **Derril Filemon**
